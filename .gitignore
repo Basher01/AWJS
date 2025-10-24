@@ -1,5 +1,5 @@
 *.iml
-.gradle
+.gradle/
 /local.properties
 /.idea/
 .DS_Store
@@ -18,3 +18,5 @@ out/
 gradle-app.setting
 !gradle-wrapper.jar
 .gradletasknamecache
+app/build/
+*/build/
